@@ -1,0 +1,101 @@
+h1{
+    text-decoration: wavy;
+    color: rgb(105, 143, 199);
+}
+h2{
+    text-decoration: wavy;
+    color: lightseagreen;
+}
+
+body{
+    background-color: azure;
+    /*background: url(./image/fondo2.jpg);*/
+    
+}
+
+.caja1{
+    width: 90%;
+    height: 90%;
+    background-color: burlywood;
+    margin: auto;
+    border: 5px solid darkcyan;
+    padding: 10px;
+    box-shadow: 0 0 30px rgb(102, 94, 94);
+    font-family: Georgia;
+    text-align: center;
+}
+.caja2{
+    margin: 20px;
+    width: auto;
+    height: auto;
+    background-color: lightskyblue;
+    border: 10px solid dodgerblue;
+    color: rgb(73, 70, 70);
+    font-family: 'Poppins', Arial, sans-serif !important;
+    padding: 10px;
+    font-size: 17px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.caja3{
+    margin: 20px;
+    width: auto;
+    height: auto;
+    background-color:rgb(150, 197, 104) ;
+    border: 10px solid darkgreen;
+    color: rgb(73, 70, 70);
+    font-family: 'Poppins', Arial, sans-serif !important;
+    padding: 10px;
+    font-size: 17px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.caja4{
+    margin: 20px;
+    width: auto;
+    height: auto;
+    background-color:salmon;
+    border: 10px solid red;
+    color: rgb(73, 70, 70);
+    font-family: 'Poppins', Arial, sans-serif !important;
+    padding: 10px;
+    font-size: 17px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.imagen1{
+    margin: 20px;
+    width: auto;
+    height: auto;
+    border: 10px solid rgb(165, 228, 174);
+    padding: 10px;
+    background-color: khaki;
+    color: rgb(73, 70, 70);
+    font-size: 17px;
+    font-family: 'Poppins', Arial, sans-serif !important;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    
+    
+    
+}
+
+
+.texto1{
+    font-size: 20px;
+    font-family: Times New Roman;
+    color: white;
+}
+
+.texto2{
+    text-align: justify;
+    margin: 40px;
+}
+
+.texto3{
+    text-align: left;
+    margin: 40px;
+}
+

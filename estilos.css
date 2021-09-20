@@ -66,6 +66,20 @@ body{
 
 }
 
+.caja5{
+
+    margin: 20px;
+    width: auto;
+    height: auto;
+    background-color:rgb(114, 168, 250);
+    border: 10px solid rgb(0, 89, 255);
+    color: rgb(73, 70, 70);
+    font-family: 'Poppins', Arial, sans-serif !important;
+    padding: 10px;
+    font-size: 17px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
 
 
 .imagen1{
